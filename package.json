@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "textlint --preset ja-technical-writing articles/* README.md",
+    "lint:autoFix": "textlint --preset ja-technical-writing README.md --fix articles/* README.md"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,8 @@
   },
   "homepage": "https://github.com/ShunnMatsumura/zenn-blog#readme",
   "dependencies": {
+    "textlint": "^13.3.2",
+    "textlint-rule-preset-ja-technical-writing": "^7.0.0",
     "zenn-cli": "^0.1.143"
   }
 }

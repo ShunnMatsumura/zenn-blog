@@ -15,7 +15,7 @@ $ zenn new:book
 $ npx zenn preview
 ```
 
-VSCodeの Zenn Editorで十分
+VSCodeの Zenn Editorで十分。
 
 ## 公開の時間指定
 ```
