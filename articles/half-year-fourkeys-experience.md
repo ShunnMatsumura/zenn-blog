@@ -7,11 +7,13 @@ published: false
 publication_name: overflow_offers
 ---
 <!-- textlint-disable ja-technical-writing/sentence-length -->
-プロダクト開発組織・人材を対象に、開発パフォーマンス・生産性の最大化インフラ [Offers MGR](https://offers-mgr.com/) と副業転職プラットフォーム [Offers](https://offers.jp) を運営する株式会社 overflow のエンジニアの shun です。今回は弊社でローンチしている [Offers MGR](https://offers-mgr.com/) を活用し、半年間開発チームの運営をしてきて取り組んできたことと、その成果について話せればと考えています。書き出すとかなりの量となったため、今回は一旦「変更障害率」の数値を見つつ改善した話をしたいと考えています。
-<!-- textlint-enable ja-technical-writing/sentence-length -->
+プロダクト開発組織・人材を対象に、開発パフォーマンス・生産性の最大化インフラ [Offers MGR](https://offers-mgr.com/) と副業転職プラットフォーム [Offers](https://offers.jp) を運営する株式会社 overflow のエンジニアの shun です。今回は弊社でローンチしている [Offers MGR](https://offers-mgr.com/) を活用し、半年間開発チームの運営をしてきて取り組んできたことと、その成果について話せればと考えています。書き出すとかなりの量となったため、今回は一旦「変更障害率」の数値を見つつ改善した話をしたいと考えています。<!-- textlint-enable ja-technical-writing/sentence-length -->
+
+<!-- textlint-disable ja-technical-writing/ja-no-mixed-period -->
 :::message
 具体的な観測期間は2023.04.01 〜 2023.09.30です。
 :::
+<!-- textlint-enable ja-technical-writing/ja-no-mixed-period -->
 
 # モチベーション
 <!-- textlint-disable ja-technical-writing/sentence-length -->2023年4月から、主にtoC側のプロダクト開発をするチームのリードとして振る舞うこととなりました。正直何もわからなかったので、一旦チームとしてのアウトプットは如何なる時でも重要であろうと考え、ちょうどリリースされたばかりの [Offers MGR](https://offers-mgr.com/) の FourKeys を用いて眺め、改善してみようと考えたのが主です。また、社内で積極的に自社サービス使うことでフィードバックを Offers MGR チームに還元できるので、一石二鳥とも考えています。<!-- textlint-enable ja-technical-writing/sentence-length -->
