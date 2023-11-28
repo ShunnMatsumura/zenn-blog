@@ -3,8 +3,9 @@ title: "FourKeysを半年間眺めて取り組んだこと -「変更障害率�
 emoji: "✨"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["FourKeys", "開発生産性", "DevLead", "EM"]
-published: false
+published: true
 publication_name: overflow_offers
+published_at: 2023-12-12 09:00
 ---
 <!-- textlint-disable ja-technical-writing/sentence-length -->
 プロダクト開発組織・人材を対象に、開発パフォーマンス・生産性の最大化インフラ [Offers MGR](https://offers-mgr.com/) と副業転職プラットフォーム [Offers](https://offers.jp) を運営する株式会社 overflow のエンジニアの shun です。今回は弊社でローンチしている [Offers MGR](https://offers-mgr.com/) を活用し、半年間開発チームの運営をしてきて取り組んできたことと、その成果について話せればと考えています。書き出すとかなりの量となったため、今回は一旦「変更障害率」の数値を見つつ改善した話をしたいと考えています。<!-- textlint-enable ja-technical-writing/sentence-length -->
