@@ -20,7 +20,8 @@
   "homepage": "https://github.com/ShunnMatsumura/zenn-blog#readme",
   "dependencies": {
     "textlint": "^13.3.2",
+    "textlint-filter-rule-comments": "^1.2.2",
     "textlint-rule-preset-ja-technical-writing": "^7.0.0",
-    "zenn-cli": "^0.1.143"
+    "zenn-cli": "^0.1.149"
   }
 }
